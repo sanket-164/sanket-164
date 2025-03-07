@@ -1,14 +1,9 @@
-<h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">, I'm Sanket</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=777777&center=true&vCenter=true&lines=👨‍💻+Full-Stack+Web+Developement;🤖+Machine+Learning;🍃+Learning+New+Things;" alt="Typing SVG">
+  <img height="100" src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=777777&center=true&vCenter=true&lines=🌐+Full-Stack+Web+Development;🤖+Machine+Learning;🧑🏻‍💻+Learning+New+Tech;" alt="Typing SVG">
 </p>
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **Backend Development**
-
-- 📫 How to reach me **sanketsadadiya53@gmail.com**
-
+<h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">, I'm Sanket</h1>
+A passionate backend developer with experience in building web applications and AI-based tools, specializing in Node.js, Python, and machine learning. Seeking opportunities to apply expertise in backend development, API design, and AI-driven solutions to create impactful and efficient software applications.
 
 # 🛠️ Skills
 
@@ -64,10 +59,7 @@
 </div>
 
 <br />
-<br />
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanket-164&show_icons=true&locale=en&layout=compact" alt="sanket-164" /></p>
-<br />
-<br />
 
 # 🔗 Links
 <div align="center">
