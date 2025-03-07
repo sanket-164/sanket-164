@@ -69,11 +69,12 @@
 <br />
 <br />
 
-# 🔗 Connect with Me
+# 🔗 Links
 <div align="center">
     
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF004F?style=for-the-badge&logo=globe&logoColor=white)](https://sanketsadadiya.github.io/portfolio) 
-[![X (Twitter)](https://img.shields.io/badge/X(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sanket_164) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF004F?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.ssanket.tech/) 
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](https://www.ssanket.tech/Sanket%20Sadadiya%20Resume.pdf) 
+[![X (Twitter)](https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sanket_164) 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/sanketsadadiya) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sanket_164) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-F7941E?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/sanket_164) 
