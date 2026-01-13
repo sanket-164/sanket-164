@@ -37,7 +37,6 @@
 -->
 
 <br />
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanket-164&show_icons=true&locale=en&layout=compact" alt="sanket-164" /></p>
 
 # 🔗 Links
 <div align="center">
