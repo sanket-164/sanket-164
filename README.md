@@ -34,11 +34,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
--->
+
 
 <br />
 
 # 🔗 Links
+-->
 <div align="center">
     
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF004F?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.ssanket.tech)
@@ -51,7 +52,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanketsadadiya53@gmail.com)
 
 </div>
-
 <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanket-164&label=Profile%20views&color=0e75b6&style=flat" alt="sanket-164" /> </p>
-<br />
