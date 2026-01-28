@@ -44,13 +44,15 @@
     
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF004F?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.ssanket.tech)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanket-164)
-[![DockerHub](https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/sanket164)
 [![X (Twitter)](https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sanket_164)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/sanketsadadiya)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F7941E?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/sanket_164)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sanketsadadiya)
 [![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanketsadadiya53@gmail.com)
 
+<!--
+[![DockerHub](https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/sanket164)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F7941E?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/sanket_164)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sanketsadadiya)
+-->
 </div>
 <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanket-164&label=Profile%20views&color=0e75b6&style=flat" alt="sanket-164" /> </p>
