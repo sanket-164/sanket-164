@@ -42,7 +42,7 @@
 -->
 <div align="center">
     
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF004F?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.ssanket.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF004F?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://sanket-sadadiya.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanket-164)
 [![X (Twitter)](https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sanket_164)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/sanketsadadiya)
